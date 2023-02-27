@@ -1,0 +1,23 @@
+{
+  "name": "readme-generatorchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z404C/README-GeneratorChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Z404C/README-GeneratorChallenge/issues"
+  },
+  "homepage": "https://github.com/Z404C/README-GeneratorChallenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
